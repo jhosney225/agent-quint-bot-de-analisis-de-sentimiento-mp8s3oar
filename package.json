@@ -1,0 +1,6 @@
+{
+  "name": "agent-quint-bot-de-analisis-de-sentimiento-mp8s3oar",
+  "version": "1.0.0",
+  "description": "Proyecto de Quint [Gen30]: bot de analisis de sentimiento de noticias financieras",
+  "main": "index.js"
+}
